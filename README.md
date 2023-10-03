@@ -1,7 +1,7 @@
 
 # IMDB Clone
 
-Visit : https://pk-imdb.netlify.app/ .
+Visit : https://pk-imdb.netlify.app/ 
 
 Developed IMDb clone using React JS, Redux Toolkit, React Router and TMDB API for dynamic movie data retrieval. Developed a user-centric UI using Tailwind CSS and seamlessly
 incorporated external APIs for comprehensive movie exploration hilighted top-rated, upcoming, popular movies.
@@ -14,5 +14,4 @@ including HTML, CSS, JavaScript, and React JS. I'm enthusiastic about contributi
 
 ## 🛠 Skills
 Javascript, HTML, CSS, React Js, MySQL, Java, Ajax, JSON, SEO, Redux Toolkit, Tailwind CSS, API Integration.
-
 
